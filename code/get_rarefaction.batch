@@ -1,0 +1,1 @@
+rarefaction.single(shared=$MOTH/raw.trim.contigs.good.unique.good.filter.unique.precluster.pick.pick.pick.opti_mcc.shared, calc=sobs-chao-ace, freq=100, seed=19760620)

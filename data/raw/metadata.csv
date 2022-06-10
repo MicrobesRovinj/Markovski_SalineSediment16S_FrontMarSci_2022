@@ -1,0 +1,144 @@
+ID	file_name_F	file_name_R	sequencing_batch	label	date	season	station	depth	layer	decay_leafs	decay_roots
+76	18118-0336_R1_all.fastq	18118-0336_R2_all.fastq	18118_batch4	12/7-17 SCy 0-1 cm	12.07.2017	Summer	SCy	0-1 cm	top	before	before
+77	18118-0337_R1_all.fastq	18118-0337_R2_all.fastq	18118_batch4	12/7-17 SCy 2-3 cm	12.07.2017	Summer	SCy	2-3 cm	upper middle	before	before
+78	18118-0338_R1_all.fastq	18118-0338_R2_all.fastq	18118_batch4	12/7-17 SCy 4-5 cm	12.07.2017	Summer	SCy	4-5 cm	lower middle	before	before
+79	18118-0339_R1_all.fastq	18118-0339_R2_all.fastq	18118_batch4	12/7-17 SCy 7-8 cm	12.07.2017	Summer	SCy	7-8 cm	bottom	before	before
+80	18118-0340_R1_all.fastq	18118-0340_R2_all.fastq	18118_batch4	12/7-17 SN 0-1 cm	12.07.2017	Summer	SN	0-1 cm	top	before	before
+81	18118-0341_R1_all.fastq	18118-0341_R2_all.fastq	18118_batch4	12/7-17 SN 2-3 cm	12.07.2017	Summer	SN	2-3 cm	upper middle	before	before
+82	18118-0342_R1_all.fastq	18118-0342_R2_all.fastq	18118_batch4	12/7-17 SN 4-5 cm	12.07.2017	Summer	SN	4-5 cm	lower middle	before	before
+83	18118-0343_R1_all.fastq	18118-0343_R2_all.fastq	18118_batch4	12/7-17 SN 7-8 cm	12.07.2017	Summer	SN	7-8 cm	bottom	before	before
+96	18118-0071_GCTCATGA-CTACTATA_L001_R1_001.fastq	18118-0071_GCTCATGA-CTACTATA_L001_R2_001.fastq	18118-batch2	26/7-17 SCy 0-1 cm	26.07.2017	Summer	SCy	0-1 cm	top	before	before
+97	18118-0072_GCTCATGA-CGTTACTA_L001_R1_001.fastq	18118-0072_GCTCATGA-CGTTACTA_L001_R2_001.fastq	18118-batch2	26/7-17 SCy 1-2 cm	26.07.2017	Summer	SCy	1-2 cm	upper middle	before	before
+98	18118-0073_GCTCATGA-AGAGTCAC_L001_R1_001.fastq	18118-0073_GCTCATGA-AGAGTCAC_L001_R2_001.fastq	18118-batch2	26/7-17 SCy 4-5 cm	26.07.2017	Summer	SCy	4-5 cm	lower middle	before	before
+99	18118-0074_GCTCATGA-TACGAGAC_L001_R1_001.fastq	18118-0074_GCTCATGA-TACGAGAC_L001_R2_001.fastq	18118-batch2	26/7-17 SCy 7-8 cm	26.07.2017	Summer	SCy	7-8 cm	bottom	before	before
+100	18118-0075_GCTCATGA-ACGTCTCG_L001_R1_001.fastq	18118-0075_GCTCATGA-ACGTCTCG_L001_R2_001.fastq	18118-batch2	26/7-17 SN 0-1 cm	26.07.2017	Summer	SN	0-1 cm	top	before	before
+101	18118-0076_GCTCATGA-TAGTGTAG_L001_R1_001.fastq	18118-0076_GCTCATGA-TAGTGTAG_L001_R2_001.fastq	18118-batch2	26/7-17 SN 1-2 cm	26.07.2017	Summer	SN	1-2 cm	upper middle	before	before
+102	18118-0077_GCTCATGA-GATCGTGT_L001_R1_001.fastq	18118-0077_GCTCATGA-GATCGTGT_L001_R2_001.fastq	18118-batch2	26/7-17 SN 4-5 cm	26.07.2017	Summer	SN	4-5 cm	lower middle	before	before
+103	18118-0078_GCTCATGA-GTCAGATA_L001_R1_001.fastq	18118-0078_GCTCATGA-GTCAGATA_L001_R2_001.fastq	18118-batch2	26/7-17 SN 7-8 cm	26.07.2017	Summer	SN	7-8 cm	bottom	before	before
+116	18118-0161_S91_L001_R1_001.fastq	18118-0161_S91_L001_R2_001.fastq	18118_batch3	9/8-17 SCy 0-1 cm	09.08.2017	Summer	SCy	0-1 cm	top	before	before
+117	18118-0162_S102_L001_R1_001.fastq	18118-0162_S102_L001_R2_001.fastq	18118_batch3	9/8-17 SCy 2-3 cm	09.08.2017	Summer	SCy	2-3 cm	upper middle	before	before
+118	18118-0163_S113_L001_R1_001.fastq	18118-0163_S113_L001_R2_001.fastq	18118_batch3	9/8-17 SCy 4-5 cm	09.08.2017	Summer	SCy	4-5 cm	lower middle	before	before
+119	18118-0164_S124_L001_R1_001.fastq	18118-0164_S124_L001_R2_001.fastq	18118_batch3	9/8-17 SCy 7-8 cm	09.08.2017	Summer	SCy	7-8 cm	bottom	before	before
+120	18118-0165_S44_L001_R1_001.fastq	18118-0165_S44_L001_R2_001.fastq	18118_batch3	9/8-17 SN 0-1 cm	09.08.2017	Summer	SN	0-1 cm	top	before	before
+121	18118-0166_S56_L001_R1_001.fastq	18118-0166_S56_L001_R2_001.fastq	18118_batch3	9/8-17 SN 2-3 cm	09.08.2017	Summer	SN	2-3 cm	upper middle	before	before
+122	18118-0167_S68_L001_R1_001.fastq	18118-0167_S68_L001_R2_001.fastq	18118_batch3	9/8-17 SN 4-5 cm	09.08.2017	Summer	SN	4-5 cm	lower middle	before	before
+123	18118-0168_S80_L001_R1_001.fastq	18118-0168_S80_L001_R2_001.fastq	18118_batch3	9/8-17 SN 7-8 cm	09.08.2017	Summer	SN	7-8 cm	bottom	before	before
+136	18118-0356_R1_all.fastq	18118-0356_R2_all.fastq	18118_batch4	23/8-17 SCy 0-1 cm	23.08.2017	Summer	SCy	0-1 cm	top	before	before
+137	18118-0357_R1_all.fastq	18118-0357_R2_all.fastq	18118_batch4	23/8-17 SCy 2-3 cm	23.08.2017	Summer	SCy	2-3 cm	upper middle	before	before
+138	18118-0358_R1_all.fastq	18118-0358_R2_all.fastq	18118_batch4	23/8-17 SCy 4-5 cm	23.08.2017	Summer	SCy	4-5 cm	lower middle	before	before
+139	18118-0359_R1_all.fastq	18118-0359_R2_all.fastq	18118_batch4	23/8-17 SCy 7-8 cm	23.08.2017	Summer	SCy	7-8 cm	bottom	before	before
+140	18118-0360_R1_all.fastq	18118-0360_R2_all.fastq	18118_batch4	23/8-17 SN 0-1 cm	23.08.2017	Summer	SN	0-1 cm	top	before	before
+141	18118-0361_R1_all.fastq	18118-0361_R2_all.fastq	18118_batch4	23/8-17 SN 2-3 cm	23.08.2017	Summer	SN	2-3 cm	upper middle	before	before
+142	18118-0362_R1_all.fastq	18118-0362_R2_all.fastq	18118_batch4	23/8-17 SN 4-5 cm	23.08.2017	Summer	SN	4-5 cm	lower middle	before	before
+143	18118-0363_R1_all.fastq	18118-0363_R2_all.fastq	18118_batch4	23/8-17 SN 7-8 cm	23.08.2017	Summer	SN	7-8 cm	bottom	before	before
+156	18118-0181_S46_L001_R1_001.fastq	18118-0181_S46_L001_R2_001.fastq	18118_batch3	14/9-17 SCy 0-1 cm	14.09.2017	Summer	SCy	0-1 cm	top	before	before
+157	18118-0182_S58_L001_R1_001.fastq	18118-0182_S58_L001_R2_001.fastq	18118_batch3	14/9-17 SCy 2-3 cm	14.09.2017	Summer	SCy	2-3 cm	upper middle	before	before
+158	18118-0183_S70_L001_R1_001.fastq	18118-0183_S70_L001_R2_001.fastq	18118_batch3	14/9-17 SCy 4-5 cm	14.09.2017	Summer	SCy	4-5 cm	lower middle	before	before
+159	18118-0184_S82_L001_R1_001.fastq	18118-0184_S82_L001_R2_001.fastq	18118_batch3	14/9-17 SCy 7-8 cm	14.09.2017	Summer	SCy	7-8 cm	bottom	before	before
+160	18118-0185_S94_L001_R1_001.fastq	18118-0185_S94_L001_R2_001.fastq	18118_batch3	14/9-17 SN 0-1 cm	14.09.2017	Summer	SN	0-1 cm	top	before	before
+161	18118-0186_S105_L001_R1_001.fastq	18118-0186_S105_L001_R2_001.fastq	18118_batch3	14/9-17 SN 2-3 cm	14.09.2017	Summer	SN	2-3 cm	upper middle	before	before
+162	18118-0187_S116_L001_R1_001.fastq	18118-0187_S116_L001_R2_001.fastq	18118_batch3	14/9-17 SN 4-5 cm	14.09.2017	Summer	SN	4-5 cm	lower middle	before	before
+163	18118-0188_S127_L001_R1_001.fastq	18118-0188_S127_L001_R2_001.fastq	18118_batch3	14/9-17 SN 7-8 cm	14.09.2017	Summer	SN	7-8 cm	bottom	before	before
+176	18118-0087_ACTCGCTA-CTACTATA_L001_R1_001.fastq	18118-0087_ACTCGCTA-CTACTATA_L001_R2_001.fastq	18118_batch2	11/10-17 SCy 0-1 cm	11.10.2017	Autumn	SCy	0-1 cm	top	before	before
+177	18118-0088_ACTCGCTA-CGTTACTA_L001_R1_001.fastq	18118-0088_ACTCGCTA-CGTTACTA_L001_R2_001.fastq	18118_batch2	11/10-17 SCy 2-3 cm	11.10.2017	Autumn	SCy	2-3 cm	upper middle	before	before
+178	18118-0089_ACTCGCTA-AGAGTCAC_L001_R1_001.fastq	18118-0089_ACTCGCTA-AGAGTCAC_L001_R2_001.fastq	18118_batch2	11/10-17 SCy 3-4 cm	11.10.2017	Autumn	SCy	3-4 cm	lower middle	before	before
+179	18118-0090_ACTCGCTA-TACGAGAC_L001_R1_001.fastq	18118-0090_ACTCGCTA-TACGAGAC_L001_R2_001.fastq	18118_batch2	11/10-17 SCy 7-8 cm	11.10.2017	Autumn	SCy	7-8 cm	bottom	before	before
+180	18118-0091_ACTCGCTA-ACGTCTCG_L001_R1_001.fastq	18118-0091_ACTCGCTA-ACGTCTCG_L001_R2_001.fastq	18118_batch2	11/10-17 SN 0-1 cm	11.10.2017	Autumn	SN	0-1 cm	top	before	before
+181	18118-0092_ACTCGCTA-TAGTGTAG_L001_R1_001.fastq	18118-0092_ACTCGCTA-TAGTGTAG_L001_R2_001.fastq	18118_batch2	11/10-17 SN 2-3 cm	11.10.2017	Autumn	SN	2-3 cm	upper middle	before	before
+182	18118-0093_ACTCGCTA-GATCGTGT_L001_R1_001.fastq	18118-0093_ACTCGCTA-GATCGTGT_L001_R2_001.fastq	18118_batch2	11/10-17 SN 3-4 cm	11.10.2017	Autumn	SN	3-4 cm	lower middle	before	before
+183	18118-0094_ACTCGCTA-GTCAGATA_L001_R1_001.fastq	18118-0094_ACTCGCTA-GTCAGATA_L001_R2_001.fastq	18118_batch2	11/10-17 SN 7-8 cm	11.10.2017	Autumn	SN	7-8 cm	bottom	before	before
+196	18118-0201_S96_L001_R1_001.fastq	18118-0201_S96_L001_R2_001.fastq	18118_batch3	22/11-17 SCy 0-1 cm	22.11.2017	Autumn	SCy	0-1 cm	top	before	before
+197	18118-0202_S107_L001_R1_001.fastq	18118-0202_S107_L001_R2_001.fastq	18118_batch3	22/11-17 SCy 2-3 cm	22.11.2017	Autumn	SCy	2-3 cm	upper middle	before	before
+198	18118-0203_S118_L001_R1_001.fastq	18118-0203_S118_L001_R2_001.fastq	18118_batch3	22/11-17 SCy 4-5 cm	22.11.2017	Autumn	SCy	4-5 cm	lower middle	before	before
+199	18118-0204_S129_L001_R1_001.fastq	18118-0204_S129_L001_R2_001.fastq	18118_batch3	22/11-17 SCy 7-8 cm	22.11.2017	Autumn	SCy	7-8 cm	bottom	before	before
+200	18118-0205_S49_L001_R1_001.fastq	18118-0205_S49_L001_R2_001.fastq	18118_batch3	22/11-17 SN 0-1 cm	22.11.2017	Autumn	SN	0-1 cm	top	before	before
+201	18118-0206_S61_L001_R1_001.fastq	18118-0206_S61_L001_R2_001.fastq	18118_batch3	22/11-17 SN 2-3 cm	22.11.2017	Autumn	SN	2-3 cm	upper middle	before	before
+202	18118-0207_S73_L001_R1_001.fastq	18118-0207_S73_L001_R2_001.fastq	18118_batch3	22/11-17 SN 4-5 cm	22.11.2017	Autumn	SN	4-5 cm	lower middle	before	before
+203	18118-0208_S85_L001_R1_001.fastq	18118-0208_S85_L001_R2_001.fastq	18118_batch3	22/11-17 SN 7-8 cm	22.11.2017	Autumn	SN	7-8 cm	bottom	before	before
+216	18118-0217_S98_L001_R1_001.fastq	18118-0217_S98_L001_R2_001.fastq	18118_batch3	13/12-17 SCy 0-1 cm	13.12.2017	Autumn	SCy	0-1 cm	top	after	before
+217	18118-0218_S109_L001_R1_001.fastq	18118-0218_S109_L001_R2_001.fastq	18118_batch3	13/12-17 SCy 2-3 cm	13.12.2017	Autumn	SCy	2-3 cm	upper middle	after	before
+218	18118-0219_S120_L001_R1_001.fastq	18118-0219_S120_L001_R2_001.fastq	18118_batch3	13/12-17 SCy 4-5 cm	13.12.2017	Autumn	SCy	4-5 cm	lower middle	after	before
+219	18118-0220_S131_L001_R1_001.fastq	18118-0220_S131_L001_R2_001.fastq	18118_batch3	13/12-17 SCy 7-8 cm	13.12.2017	Autumn	SCy	7-8 cm	bottom	after	before
+220	18118-0221_S51_L001_R1_001.fastq	18118-0221_S51_L001_R2_001.fastq	18118_batch3	13/12-17 SN 0-1 cm	13.12.2017	Autumn	SN	0-1 cm	top	after	before
+221	18118-0222_S63_L001_R1_001.fastq	18118-0222_S63_L001_R2_001.fastq	18118_batch3	13/12-17 SN 2-3 cm	13.12.2017	Autumn	SN	2-3 cm	upper middle	after	before
+222	18118-0223_S75_L001_R1_001.fastq	18118-0223_S75_L001_R2_001.fastq	18118_batch3	13/12-17 SN 4-5 cm	13.12.2017	Autumn	SN	4-5 cm	lower middle	after	before
+223	18118-0224_S87_L001_R1_001.fastq	18118-0224_S87_L001_R2_001.fastq	18118_batch3	13/12-17 SN 7-8 cm	13.12.2017	Autumn	SN	7-8 cm	bottom	after	before
+236	18118-0107_GCGTAGTA-ACGTCTCG_L001_R1_001.fastq	18118-0107_GCGTAGTA-ACGTCTCG_L001_R2_001.fastq	18118_batch2	12/2-18 SCy 0-1 cm	12.02.2018	Winter	SCy	0-1 cm	top	after	before
+237	18118-0108_GCGTAGTA-TAGTGTAG_L001_R1_001.fastq	18118-0108_GCGTAGTA-TAGTGTAG_L001_R2_001.fastq	18118_batch2	12/2-18 SCy 2-3 cm	12.02.2018	Winter	SCy	2-3 cm	upper middle	after	before
+238	18118-0109_GCGTAGTA-GATCGTGT_L001_R1_001.fastq	18118-0109_GCGTAGTA-GATCGTGT_L001_R2_001.fastq	18118_batch2	12/2-18 SCy 4-5 cm	12.02.2018	Winter	SCy	4-5 cm	lower middle	after	before
+239	18118-0110_GCGTAGTA-GTCAGATA_L001_R1_001.fastq	18118-0110_GCGTAGTA-GTCAGATA_L001_R2_001.fastq	18118_batch2	12/2-18 SCy 7-8 cm	12.02.2018	Winter	SCy	7-8 cm	bottom	after	before
+240	18118-0111_CGGAGCCT-CTACTATA_L001_R1_001.fastq	18118-0111_CGGAGCCT-CTACTATA_L001_R2_001.fastq	18118_batch2	12/2-18 SN 0-1 cm	12.02.2018	Winter	SN	0-1 cm	top	after	before
+241	18118-0112_CGGAGCCT-CGTTACTA_L001_R1_001.fastq	18118-0112_CGGAGCCT-CGTTACTA_L001_R2_001.fastq	18118_batch2	12/2-18 SN 2-3 cm	12.02.2018	Winter	SN	2-3 cm	upper middle	after	before
+242	18118-0113_CGGAGCCT-AGAGTCAC_L001_R1_001.fastq	18118-0113_CGGAGCCT-AGAGTCAC_L001_R2_001.fastq	18118_batch2	12/2-18 SN 4-5 cm	12.02.2018	Winter	SN	4-5 cm	lower middle	after	before
+243	18118-0114_CGGAGCCT-TACGAGAC_L001_R1_001.fastq	18118-0114_CGGAGCCT-TACGAGAC_L001_R2_001.fastq	18118_batch2	12/2-18 SN 7-8 cm	12.02.2018	Winter	SN	7-8 cm	bottom	after	before
+256	18118-0241_S101_L001_R1_001.fastq	18118-0241_S101_L001_R2_001.fastq	18118_batch3	26/3-18 SCy 0-1 cm	26.03.2018	Winter	SCy	0-1 cm	top	after	after
+257	18118-0242_S112_L001_R1_001.fastq	18118-0242_S112_L001_R2_001.fastq	18118_batch3	26/3-18 SCy 2-3 cm	26.03.2018	Winter	SCy	2-3 cm	upper middle	after	after
+258	18118-0243_S123_L001_R1_001.fastq	18118-0243_S123_L001_R2_001.fastq	18118_batch3	26/3-18 SCy 5-6 cm	26.03.2018	Winter	SCy	5-6 cm	lower middle	after	after
+259	18118-0244_S134_L001_R1_001.fastq	18118-0244_S134_L001_R2_001.fastq	18118_batch3	26/3-18 SCy 7-8 cm	26.03.2018	Winter	SCy	7-8 cm	bottom	after	after
+260	18118-0247_S135_L001_R1_001.fastq	18118-0247_S135_L001_R2_001.fastq	18118_batch3	26/3-18 SN 0-1 cm	26.03.2018	Winter	SN	0-1 cm	top	after	after
+261	18118-0248_S147_L001_R1_001.fastq	18118-0248_S147_L001_R2_001.fastq	18118_batch3	26/3-18 SN 2-3 cm	26.03.2018	Winter	SN	2-3 cm	upper middle	after	after
+262	18118-0249_S159_L001_R1_001.fastq	18118-0249_S159_L001_R2_001.fastq	18118_batch3	26/3-18 SN 5-6 cm	26.03.2018	Winter	SN	5-6 cm	lower middle	after	after
+263	18118-0250_S171_L001_R1_001.fastq	18118-0250_S171_L001_R2_001.fastq	18118_batch3	26/3-18 SN 7-8 cm	26.03.2018	Winter	SN	7-8 cm	bottom	after	after
+276	18118-0255_S136_L001_R1_001.fastq	18118-0255_S136_L001_R2_001.fastq	18118_batch3	23/4-18 SCy 0-1 cm	23.04.2018	Spring	SCy	0-1 cm	top	after	after
+277	18118-0256_S148_L001_R1_001.fastq	18118-0256_S148_L001_R2_001.fastq	18118_batch3	23/4-18 SCy 2-3 cm	23.04.2018	Spring	SCy	2-3 cm	upper middle	after	after
+278	18118-0257_S160_L001_R1_001.fastq	18118-0257_S160_L001_R2_001.fastq	18118_batch3	23/4-18 SCy 4-5 cm	23.04.2018	Spring	SCy	4-5 cm	lower middle	after	after
+279	18118-0258_S172_L001_R1_001.fastq	18118-0258_S172_L001_R2_001.fastq	18118_batch3	23/4-18 SCy 7-8 cm	23.04.2018	Spring	SCy	7-8 cm	bottom	after	after
+280	18118-0259_S183_L001_R1_001.fastq	18118-0259_S183_L001_R2_001.fastq	18118_batch3	23/4-18 SN 0-1 cm	23.04.2018	Spring	SN	0-1 cm	top	after	after
+281	18118-0260_S194_L001_R1_001.fastq	18118-0260_S194_L001_R2_001.fastq	18118_batch3	23/4-18 SN 2-3 cm	23.04.2018	Spring	SN	2-3 cm	upper middle	after	after
+282	18118-0261_S205_L001_R1_001.fastq	18118-0261_S205_L001_R2_001.fastq	18118_batch3	23/4-18 SN 4-5 cm	23.04.2018	Spring	SN	4-5 cm	lower middle	after	after
+283	18118-0387_R1_all.fastq	18118-0387_R2_all.fastq	18118_batch4	23/4-18 SN 7-8 cm	23.04.2018	Spring	SN	7-8 cm	bottom	after	after
+296	18118-0123_TACGCTGC-ACGTCTCG_L001_R1_001.fastq	18118-0123_TACGCTGC-ACGTCTCG_L001_R2_001.fastq	18118_batch2	21/5-18 SCy 0-1 cm	21.05.2018	Spring	SCy	0-1 cm	top	after	after
+297	18118-0124_TACGCTGC-TAGTGTAG_L001_R1_001.fastq	18118-0124_TACGCTGC-TAGTGTAG_L001_R2_001.fastq	18118_batch2	21/5-18 SCy 2-3 cm	21.05.2018	Spring	SCy	2-3 cm	upper middle	after	after
+298	18118-0125_TACGCTGC-GATCGTGT_L001_R1_001.fastq	18118-0125_TACGCTGC-GATCGTGT_L001_R2_001.fastq	18118_batch2	21/5-18 SCy 3-4 cm	21.05.2018	Spring	SCy	3-4 cm	lower middle	after	after
+299	18118-0126_TACGCTGC-GTCAGATA_L001_R1_001.fastq	18118-0126_TACGCTGC-GTCAGATA_L001_R2_001.fastq	18118_batch2	21/5-18 SCy 7-8 cm	21.05.2018	Spring	SCy	7-8 cm	bottom	after	after
+300	18118-0127_ATGCGCAG-CTACTATA_L001_R1_001.fastq	18118-0127_ATGCGCAG-CTACTATA_L001_R2_001.fastq	18118_batch2	21/5-18 SN 0-1 cm	21.05.2018	Spring	SN	0-1 cm	top	after	after
+301	18118-0128_ATGCGCAG-CGTTACTA_L001_R1_001.fastq	18118-0128_ATGCGCAG-CGTTACTA_L001_R2_001.fastq	18118_batch2	21/5-18 SN 2-3 cm	21.05.2018	Spring	SN	2-3 cm	upper middle	after	after
+302	18118-0129_ATGCGCAG-AGAGTCAC_L001_R1_001.fastq	18118-0129_ATGCGCAG-AGAGTCAC_L001_R2_001.fastq	18118_batch2	21/5-18 SN 3-4 cm	21.05.2018	Spring	SN	3-4 cm	lower middle	after	after
+303	18118-0130_ATGCGCAG-TACGAGAC_L001_R1_001.fastq	18118-0130_ATGCGCAG-TACGAGAC_L001_R2_001.fastq	18118_batch2	21/5-18 SN 7-8 cm	21.05.2018	Spring	SN	7-8 cm	bottom	after	after
+316	18118-0266_S173_L001_R1_001.fastq	18118-0266_S173_L001_R2_001.fastq	18118_batch3	18/6-18 SCy 0-1 cm	18.06.2018	Spring	SCy	0-1 cm	top	after	after
+317	18118-0267_S184_L001_R1_001.fastq	18118-0267_S184_L001_R2_001.fastq	18118_batch3	18/6-18 SCy 2-3 cm	18.06.2018	Spring	SCy	2-3 cm	upper middle	after	after
+318	18118-0268_S195_L001_R1_001.fastq	18118-0268_S195_L001_R2_001.fastq	18118_batch3	18/6-18 SCy 4-5 cm	18.06.2018	Spring	SCy	4-5 cm	lower middle	after	after
+319	18118-0269_S206_L001_R1_001.fastq	18118-0269_S206_L001_R2_001.fastq	18118_batch3	18/6-18 SCy 7-8 cm	18.06.2018	Spring	SCy	7-8 cm	bottom	after	after
+320	18118-0270_S217_L001_R1_001.fastq	18118-0270_S217_L001_R2_001.fastq	18118_batch3	18/6-18 SN 0-1 cm	18.06.2018	Spring	SN	0-1 cm	top	after	after
+321	18118-0271_S138_L001_R1_001.fastq	18118-0271_S138_L001_R2_001.fastq	18118_batch3	18/6-18 SN 2-3 cm	18.06.2018	Spring	SN	2-3 cm	upper middle	after	after
+322	18118-0272_S150_L001_R1_001.fastq	18118-0272_S150_L001_R2_001.fastq	18118_batch3	18/6-18 SN 4-5 cm	18.06.2018	Spring	SN	4-5 cm	lower middle	after	after
+323	18118-0273_S162_L001_R1_001.fastq	18118-0273_S162_L001_R2_001.fastq	18118_batch3	18/6-18 SN 7-8 cm	18.06.2018	Spring	SN	7-8 cm	bottom	after	after
+336	18118-0139_TAGCGCTC-ACGTCTCG_L001_R1_001.fastq	18118-0139_TAGCGCTC-ACGTCTCG_L001_R2_001.fastq	18118_batch2	9/7-18 SCy 0-1 cm	09.07.2018	Summer	SCy	0-1 cm	top	after	after
+337	18118-0140_TAGCGCTC-TAGTGTAG_L001_R1_001.fastq	18118-0140_TAGCGCTC-TAGTGTAG_L001_R2_001.fastq	18118_batch2	9/7-18 SCy 2-3 cm	09.07.2018	Summer	SCy	2-3 cm	upper middle	after	after
+338	18118-0141_TAGCGCTC-GATCGTGT_L001_R1_001.fastq	18118-0141_TAGCGCTC-GATCGTGT_L001_R2_001.fastq	18118_batch2	9/7-18 SCy 4-5 cm	09.07.2018	Summer	SCy	4-5 cm	lower middle	after	after
+339	18118-0142_TAGCGCTC-GTCAGATA_L001_R1_001.fastq	18118-0142_TAGCGCTC-GTCAGATA_L001_R2_001.fastq	18118_batch2	9/7-18 SCy 7-8 cm	09.07.2018	Summer	SCy	7-8 cm	bottom	after	after
+340	18118-0143_ACTGAGCG-CTACTATA_L001_R1_001.fastq	18118-0143_ACTGAGCG-CTACTATA_L001_R2_001.fastq	18118_batch2	9/7-18 SN 0-1 cm	09.07.2018	Summer	SN	0-1 cm	top	after	after
+341	18118-0144_ACTGAGCG-CGTTACTA_L001_R1_001.fastq	18118-0144_ACTGAGCG-CGTTACTA_L001_R2_001.fastq	18118_batch2	9/7-18 SN 2-3 cm	09.07.2018	Summer	SN	2-3 cm	upper middle	after	after
+342	18118-0145_ACTGAGCG-AGAGTCAC_L001_R1_001.fastq	18118-0145_ACTGAGCG-AGAGTCAC_L001_R2_001.fastq	18118_batch2	9/7-18 SN 4-5 cm	09.07.2018	Summer	SN	4-5 cm	lower middle	after	after
+343	18118-0146_ACTGAGCG-TACGAGAC_L001_R1_001.fastq	18118-0146_ACTGAGCG-TACGAGAC_L001_R2_001.fastq	18118_batch2	9/7-18 SN 7-8 cm	09.07.2018	Summer	SN	7-8 cm	bottom	after	after
+356	18118-0282_S175_L001_R1_001.fastq	18118-0282_S175_L001_R2_001.fastq	18118_batch3	8/8-18 SCy 0-1 cm	08.08.2018	Summer	SCy	0-1 cm	top	after	after
+357	18118-0283_S186_L001_R1_001.fastq	18118-0283_S186_L001_R2_001.fastq	18118_batch3	8/8-18 SCy 2-3 cm	08.08.2018	Summer	SCy	2-3 cm	upper middle	after	after
+358	18118-0284_S197_L001_R1_001.fastq	18118-0284_S197_L001_R2_001.fastq	18118_batch3	8/8-18 SCy 4-5 cm	08.08.2018	Summer	SCy	4-5 cm	lower middle	after	after
+359	18118-0285_S208_L001_R1_001.fastq	18118-0285_S208_L001_R2_001.fastq	18118_batch3	8/8-18 SCy 7-8 cm	08.08.2018	Summer	SCy	7-8 cm	bottom	after	after
+360	18118-0286_S219_L001_R1_001.fastq	18118-0286_S219_L001_R2_001.fastq	18118_batch3	8/8-18 SN 0-1 cm	08.08.2018	Summer	SN	0-1 cm	top	after	after
+361	18118-0287_S140_L001_R1_001.fastq	18118-0287_S140_L001_R2_001.fastq	18118_batch3	8/8-18 SN 2-3 cm	08.08.2018	Summer	SN	2-3 cm	upper middle	after	after
+362	18118-0288_S152_L001_R1_001.fastq	18118-0288_S152_L001_R2_001.fastq	18118_batch3	8/8-18 SN 4-5 cm	08.08.2018	Summer	SN	4-5 cm	lower middle	after	after
+363	18118-0289_S164_L001_R1_001.fastq	18118-0289_S164_L001_R2_001.fastq	18118_batch3	8/8-18 SN 7-8 cm	08.08.2018	Summer	SN	7-8 cm	bottom	after	after
+376	18118-0302_S221_L001_R1_001.fastq	18118-0302_S221_L001_R2_001.fastq	18118_batch3	3/9-18 SCy 0-1 cm	03.09.2018	Summer	SCy	0-1 cm	top	after	after
+377	18118-0303_S142_L001_R1_001.fastq	18118-0303_S142_L001_R2_001.fastq	18118_batch3	3/9-18 SCy 2-3 cm	03.09.2018	Summer	SCy	2-3 cm	upper middle	after	after
+378	18118-0304_S154_L001_R1_001.fastq	18118-0304_S154_L001_R2_001.fastq	18118_batch3	3/9-18 SCy 4-5 cm	03.09.2018	Summer	SCy	4-5 cm	lower middle	after	after
+379	18118-0305_S166_L001_R1_001.fastq	18118-0305_S166_L001_R2_001.fastq	18118_batch3	3/9-18 Scy 7-8 cm	03.09.2018	Summer	SCy	7-8 cm	bottom	after	after
+380	18118-0306_S178_L001_R1_001.fastq	18118-0306_S178_L001_R2_001.fastq	18118_batch3	3/9-18 SN 0-1 cm	03.09.2018	Summer	SN	0-1 cm	top	after	after
+381	18118-0307_S189_L001_R1_001.fastq	18118-0307_S189_L001_R2_001.fastq	18118_batch3	3/9-18 SN 2-3 cm	03.09.2018	Summer	SN	2-3 cm	upper middle	after	after
+382	18118-0308_S200_L001_R1_001.fastq	18118-0308_S200_L001_R2_001.fastq	18118_batch3	3/9-18 SN 4-5 cm	03.09.2018	Summer	SN	4-5 cm	lower middle	after	after
+383	18118-0309_S211_L001_R1_001.fastq	18118-0309_S211_L001_R2_001.fastq	18118_batch3	3/9-18 SN 7-8 cm	03.09.2018	Summer	SN	7-8 cm	bottom	after	after
+396	18118-0322_S180_L001_R1_001.fastq	18118-0322_S180_L001_R2_001.fastq	18118_batch3	4/10-18 SCy 0-1 cm	04.10.2018	Autumn	SCy	0-1 cm	top	after	after
+397	18118-0323_S191_L001_R1_001.fastq	18118-0323_S191_L001_R2_001.fastq	18118_batch3	4/10-18 SCy 2-3 cm	04.10.2018	Autumn	SCy	2-3 cm	upper middle	after	after
+398	18118-0324_S202_L001_R1_001.fastq	18118-0324_S202_L001_R2_001.fastq	18118_batch3	4/10-18 SCy 4-5 cm	04.10.2018	Autumn	SCy	4-5 cm	lower middle	after	after
+399	18118-0325_S213_L001_R1_001.fastq	18118-0325_S213_L001_R2_001.fastq	18118_batch3	4/10-18 SCy 7-8 cm	04.10.2018	Autumn	SCy	7-8 cm	bottom	after	after
+400	18118-0326_S224_L001_R1_001.fastq	18118-0326_S224_L001_R2_001.fastq	18118_batch3	4/10-18 SN 0-1 cm	04.10.2018	Autumn	SN	0-1 cm	top	after	after
+401	18118-0327_S145_L001_R1_001.fastq	18118-0327_S145_L001_R2_001.fastq	18118_batch3	4/10-18 SN 2-3 cm	04.10.2018	Autumn	SN	2-3 cm	upper middle	after	after
+402	18118-0328_S157_L001_R1_001.fastq	18118-0328_S157_L001_R2_001.fastq	18118_batch3	4/10-18 SN 4-5 cm	04.10.2018	Autumn	SN	4-5 cm	lower middle	after	after
+403	18118-0329_S169_L001_R1_001.fastq	18118-0329_S169_L001_R2_001.fastq	18118_batch3	4/10-18 SN 7-8 cm	04.10.2018	Autumn	SN	7-8 cm	bottom	after	after
+ATCC_2	18118-0155_CCTAAGAC-ACGTCTCG_L001_R1_001.fastq	18118-0155_CCTAAGAC-ACGTCTCG_L001_R2_001.fastq	18118_batch2	ATCC_MSA-1002_2							
+ATCC_3	18118-0245_S54_L001_R1_001.fastq	18118-0245_S54_L001_R2_001.fastq	18118_batch3	ATCC_MSA-1002_3							
+ATCC_4	18118-0334_S225_L001_R1_001.fastq	18118-0334_S225_L001_R2_001.fastq	18118_batch3	ATCC_MSA-1002_4							
+ATCC_5	18118-0422_R1_all.fastq	18118-0422_R2_all.fastq	18118_batch4	ATCC_MSA-1002_5							
+NC_3	NC_3_18118-0246_S66_L001_R1_001.fastq	NC_3_18118-0246_S66_L001_R2_001.fastq	18118_batch3	NEGATIVE_CONTROL_3							
+NC_4	NC_4_18118-0335_S146_L001_R1_001.fastq	NC_4_18118-0335_S146_L001_R2_001.fastq	18118_batch3	NEGATIVE_CONTROL_4							
+NC_5	NC_5_18118-0423_R1_all.fastq	NC_5_18118-0423_R2_all.fastq	18118_batch4	NEGATIVE_CONTROL_5							
