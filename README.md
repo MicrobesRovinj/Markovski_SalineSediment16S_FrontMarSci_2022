@@ -61,8 +61,8 @@ This is the repository for the manuscript "Compositional stability of sediment m
 #### Running analysis
 Before running the analysis be sure to generate the mothur compatible SILVA reference file and indicate in the Makefile its location. The manuscript and supplementary information can be generated on a Linux computer by running the following commands:
 ```
-git clone https://github.com/MicrobesRovinj/Markovski_SalineSediment16S_x_2022.git
-cd Markovski_SalineSediment16S_x_2021/
+git clone https://github.com/MicrobesRovinj/Markovski_SalineSediment16S_FrontMarSci_2022.git
+cd Markovski_SalineSediment16S_FrontMarSci_2022/
 make submission/manuscript.pdf
 ```
 If something goes wrong and the analysis needs to be restarted run the following command from the project home directory before rerunning the analysis:
