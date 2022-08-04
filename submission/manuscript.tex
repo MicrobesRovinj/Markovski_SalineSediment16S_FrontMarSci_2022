@@ -381,15 +381,26 @@ were tested samples were grouped based on sampling year (2017 and 2018)
 and decay of roots and rhizomes (before and after decay). The period
 prior to the decay included samples retrieved from the begining of the
 study until and including February 2018, while the period after the
-decay included samples taken after February 2018. In addition,
-differences between richness estimators, diversity indices, and relative
-sequence abundances were tested by performing the Mann-Whitney \emph{U}
-test (function \texttt{wilcox.test}), when two groups were compared, or
-the Kruskal-Wallis \emph{H} test (function \texttt{kruskal.test})
-followed by a pairwise comparison using the Mann-Whitney \emph{U} test
-(function \texttt{pairwise.wilcox.test}), when more than two groups were
-compared. Bonferroni correction was applied to address the problem of
-multiple comparisons.
+decay included samples taken after February 2018. To calculate the
+proportion of OTU community variation explained by environmental
+variables (redox potential {[}\(E_h\){]}, oxygen {[}\ch{O2}{]}, hydrogen
+sulfide {[}\ch{H2S}{]}, sulfur {[}\ch{S^0}{]}, organic matter content,
+and prokaryotic abundance) reported in Najdek et al. (2020) vegan's
+function \texttt{RsquareAdj} was applied on the results of the
+distance-based Redundancy Analysis (db-RDA) (Borcard et al., 2018;
+Oksanen et al., 2020). To calculate the db-RDA vegan's function
+\texttt{capscale} on OTU data and explanatory environmental variables
+was performed. The analysis was computed using the Bray-Curtis
+dissimilarity index and the Lingoes correction for negative eigenvalues
+(Legendre and Legendre, 2012; Borcard et al., 2018; Oksanen et al.,
+2020). In addition, differences between richness estimators, diversity
+indices, and relative sequence abundances were tested by performing the
+Mann-Whitney \emph{U} test (function \texttt{wilcox.test}), when two
+groups were compared, or the Kruskal-Wallis \emph{H} test (function
+\texttt{kruskal.test}) followed by a pairwise comparison using the
+Mann-Whitney \emph{U} test (function \texttt{pairwise.wilcox.test}),
+when more than two groups were compared. Bonferroni correction was
+applied to address the problem of multiple comparisons.
 
 In total 3.3 million sequences were obtained after quality curation and
 exclusion of sequences without known relatives (no relative sequences),
@@ -485,28 +496,32 @@ differentiation of samples based on sediment depth was noted
 between samples from middle layers (Bray-Curtis; vegetated, 0.71 and
 nonvegetated, 0.71) and between lower middle and bottom layers
 (Bray-Curtis; vegetated, 0.69 and nonvegetated, 0.71) (Supplementary
-\autoref{supp-matrix}). To determine whether there is a temporal
-succession in the community pattern, samples from each layer and site
-were analysed separately to exclude the effects of sediment depth and
-vegetation, which have been shown to primarily influence sediment
-community structure (\autoref{pcoa_figure_areas_layers}). No grouping of
-samples by month was observed in any of the layers and sites analysed.
-Although Najdek et al. (2020) described a sharp decline in aboveground
-biomass in the same meadow since the beginning of 2018, we did not
-detect a clearly defined grouping of samples based on sampling year in
-all the analysed layers (ANOSIM; vegetated, R = 0.06 -- 0.26, \emph{p} =
-0.05 -- 0.18 and nonvegetated, R = 0.03 -- 0.18 \emph{p} = 0.05 --
-0.29). In addition, we also analysed the samples according to the
-reported decline of roots and rhizomes, as belowground biomass showed a
-later onset of decline than the aboveground biomass (Najdek et al.,
-2020). However, this analysis also did not reveal a grouping in any of
-the tested layers (ANOSIM; vegetated, R = 0.07 -- 0.19, \emph{p} = 0.05
--- 0.18 and nonvegetated, R = 0.16 -- 0.20, \emph{p} = 0.05 -- 0.06).
-Furthermore, as with the community analysis, taxonomic classification of
-all samples also did not indicate a temporal succession but a fairly
-stable community composition was detected in all layers both at the
-vegetated and nonvegetated site (Supplementary
-\autoref{supp-community_barplot_month}).
+\autoref{supp-matrix}). Also, to determine the main environmental
+parameters governing community changes OTU data were linked to a set of
+environmental variables reported by Najdek et al. (2020) using db-RDA.
+Only a small proportion (\(R^2_a=\) 18.3 \si{\percent}) of the observed
+community variation could be explained by the environmental variables.
+To determine whether there is a temporal succession in the community
+pattern, samples from each layer and site were analysed separately to
+exclude the effects of sediment depth and vegetation, which have been
+shown to primarily influence sediment community structure
+(\autoref{pcoa_figure_areas_layers}). No grouping of samples by month
+was observed in any of the layers and sites analysed. Although Najdek et
+al. (2020) described a sharp decline in aboveground biomass in the same
+meadow since the beginning of 2018, we did not detect a clearly defined
+grouping of samples based on sampling year in all the analysed layers
+(ANOSIM; vegetated, R = 0.06 -- 0.26, \emph{p} = 0.05 -- 0.18 and
+nonvegetated, R = 0.03 -- 0.18 \emph{p} = 0.05 -- 0.29). In addition, we
+also analysed the samples according to the reported decline of roots and
+rhizomes, as belowground biomass showed a later onset of decline than
+the aboveground biomass (Najdek et al., 2020). However, this analysis
+also did not reveal a grouping in any of the tested layers (ANOSIM;
+vegetated, R = 0.07 -- 0.19, \emph{p} = 0.05 -- 0.18 and nonvegetated, R
+= 0.16 -- 0.20, \emph{p} = 0.05 -- 0.06). Furthermore, as with the
+community analysis, taxonomic classification of all samples also did not
+indicate a temporal succession but a fairly stable community composition
+was detected in all layers both at the vegetated and nonvegetated site
+(Supplementary \autoref{supp-community_barplot_month}).
 
 Archaeal sequences comprised 9.5 ± 4.7 \si{\percent} of all reads.
 Sequences classified as \emph{Archaea} increased in relative abundance
@@ -729,34 +744,35 @@ community, as we did not observe any grouping of communities according
 to month, year, or meadow condition
 (\autoref{pcoa_figure_areas_layers}). In addition, no temporal patterns
 were observed in the taxonomic composition, richness, or diversity of
-the microbial community. Such a stable community structure despite
-changing environmental conditions like the significant decrease of
-organic matter (Najdek et al., 2020) could be explained by a greater
-proportion of dormant or dead microbial cells remaining in the sediment,
-leading to a perceived taxonomic stability (Luna et al., 2002; Jones and
-Lennon, 2010; Cangelosi and Meschke, 2014; Carini et al., 2016; Torti et
-al., 2018; Bradley et al., 2019). Taxonomic identification by molecular
-methods such as sequencing of the 16S rRNA gene cannot distinguish
-between active and dormant cells, nor whether the cell is alive or dead
-(Cangelosi and Meschke, 2014). Indeed, it has been reported that in
-coastal marine sediments dead cells account for 70 \si{\percent} of all
-bacterial cells, while among living bacterial cells only 4 \si{\percent}
-grow actively (Luna et al., 2002). Furthermore, it is possible that the
-change in community composition may be delayed given that microbial
-communities in marine sediments often have very long generation times
-(Jørgensen and Marshall, 2016; Starnawski et al., 2017) and that some
-recognizable remnants of roots and rhizomes were still observed at the
-end of the study (Najdek et al., 2020). High metabolic versatility of
-microbial community members which allows functional continuity to be
-maintained despite changes in composition (Louca et al., 2018), may also
-allow for some degree of compositional stability despite changing
-environmental conditions. Indeed, a decoupling of microbial composition
-and biogeochemical processes has been observed in sediments. Bowen et
-al. (2011) have shown that microbial communities in sediments are able
-to resist compositional changes despite significant variations in
-external nutrient supply, while Marshall et al. (2021) found that the
-composition of the nitrogen cycling community might change but these
-compositional changes are not reflected in functional changes.
+the microbial community. Such a stable community structure and low
+proportion of community variation explained by the available
+environmental variables (Najdek et al., 2020) could be caused by a
+greater proportion of dormant or dead microbial cells remaining in the
+sediment, leading to a perceived taxonomic stability (Luna et al., 2002;
+Jones and Lennon, 2010; Cangelosi and Meschke, 2014; Carini et al.,
+2016; Torti et al., 2018; Bradley et al., 2019). Taxonomic
+identification by molecular methods such as sequencing of the 16S rRNA
+gene cannot distinguish between active and dormant cells, nor whether
+the cell is alive or dead (Cangelosi and Meschke, 2014). Indeed, it has
+been reported that in coastal marine sediments dead cells account for 70
+\si{\percent} of all bacterial cells, while among living bacterial cells
+only 4 \si{\percent} grow actively (Luna et al., 2002). Furthermore, it
+is possible that the change in community composition may be delayed
+given that microbial communities in marine sediments often have very
+long generation times (Jørgensen and Marshall, 2016; Starnawski et al.,
+2017) and that some recognizable remnants of roots and rhizomes were
+still observed at the end of the study (Najdek et al., 2020). High
+metabolic versatility of microbial community members which allows
+functional continuity to be maintained despite changes in composition
+(Louca et al., 2018), may also allow for some degree of compositional
+stability despite changing environmental conditions. Indeed, a
+decoupling of microbial composition and biogeochemical processes has
+been observed in sediments. Bowen et al. (2011) have shown that
+microbial communities in sediments are able to resist compositional
+changes despite significant variations in external nutrient supply,
+while Marshall et al. (2021) found that the composition of the nitrogen
+cycling community might change but these compositional changes are not
+reflected in functional changes.
 
 The archaeal community of both sites was comprised of
 \emph{Nanoarchaeota}, \emph{Thermoplasmatota}, \emph{Crenarchaeota} and
